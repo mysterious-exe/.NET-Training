@@ -1,0 +1,15 @@
+C:\Users\JSF1COB\source\repos\recursion\recursion\bin\Debug\net6.0\recursion.exe
+C:\Users\JSF1COB\source\repos\recursion\recursion\bin\Debug\net6.0\recursion.deps.json
+C:\Users\JSF1COB\source\repos\recursion\recursion\bin\Debug\net6.0\recursion.runtimeconfig.json
+C:\Users\JSF1COB\source\repos\recursion\recursion\bin\Debug\net6.0\recursion.dll
+C:\Users\JSF1COB\source\repos\recursion\recursion\bin\Debug\net6.0\recursion.pdb
+C:\Users\JSF1COB\source\repos\recursion\recursion\obj\Debug\net6.0\recursion.csproj.AssemblyReference.cache
+C:\Users\JSF1COB\source\repos\recursion\recursion\obj\Debug\net6.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JSF1COB\source\repos\recursion\recursion\obj\Debug\net6.0\recursion.AssemblyInfoInputs.cache
+C:\Users\JSF1COB\source\repos\recursion\recursion\obj\Debug\net6.0\recursion.AssemblyInfo.cs
+C:\Users\JSF1COB\source\repos\recursion\recursion\obj\Debug\net6.0\recursion.csproj.CoreCompileInputs.cache
+C:\Users\JSF1COB\source\repos\recursion\recursion\obj\Debug\net6.0\recursion.dll
+C:\Users\JSF1COB\source\repos\recursion\recursion\obj\Debug\net6.0\refint\recursion.dll
+C:\Users\JSF1COB\source\repos\recursion\recursion\obj\Debug\net6.0\recursion.pdb
+C:\Users\JSF1COB\source\repos\recursion\recursion\obj\Debug\net6.0\recursion.genruntimeconfig.cache
+C:\Users\JSF1COB\source\repos\recursion\recursion\obj\Debug\net6.0\ref\recursion.dll
